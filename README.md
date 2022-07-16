@@ -1,4 +1,4 @@
-<h1 style="text-align:"center">Olá eu sou o William, Atualmente estudando desenvolvimento web</h1>
+<h3 style="text-align:"center">Olá eu sou o William, Atualmente estudando desenvolvimento web</h3>
 
 <div align="center">
   <a href="https://github.com/williamfilipi">
