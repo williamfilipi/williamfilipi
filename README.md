@@ -1,4 +1,4 @@
-##Olá eu sou o William Filipi👋
+<h1 style="text-align:"center">Olá eu sou o William, Atualmente estudando desenvolvimento web</h1>
 
 <div align="center">
   <a href="https://github.com/williamfilipi">
