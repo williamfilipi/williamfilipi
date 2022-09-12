@@ -18,7 +18,6 @@
   <img align="center" alt="Will-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-##
 
 <div> 
   <a href="https://app.slack.com/client/T03BC1AP3FB/D03B20V8D3L" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
