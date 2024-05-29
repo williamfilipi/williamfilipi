@@ -1,5 +1,10 @@
 <h3 style="text-align:center">Olá eu sou o William, Atualmente estudando desenvolvimento web</h3>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wiliamfilipi&theme=dark&hide_border=false&include_all_commits=true)
+
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wiliamfilipi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 <div align="center">
   <a href="https://github.com/williamfilipi">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamfilipi&layout=compact&langs_count=7&theme=chartreuse-dark"/>
